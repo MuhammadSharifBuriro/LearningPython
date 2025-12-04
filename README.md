@@ -1,0 +1,2 @@
+# LearningPython
+python basic code 
